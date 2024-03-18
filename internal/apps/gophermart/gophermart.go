@@ -1,0 +1,5 @@
+package gophermart
+
+func Run() {
+
+}
